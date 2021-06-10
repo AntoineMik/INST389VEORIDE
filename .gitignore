@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# User defined
+/data/Data_Lv3_UMDOTS_Escooters.csv
