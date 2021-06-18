@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # User defined
-/data/Data_Lv3_UMDOTS_Escooters.csv
+data/Data_Lv3_UMDOTS_Escooters.csv
