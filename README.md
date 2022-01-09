@@ -33,4 +33,4 @@ Maps of most popular routes/bus stops
 
 ## Final Presentation Availaible Here 
 
-[E-Scooters Usage](https://github.com/AntoineMik/UMD-Veoride-Transportation-Usage/files/7834803/E-Scooters.Presentation.FINAL.pptx.pdf)
+[E-Scooters Usage](https://github.com/AntoineMik/UMD-Veoride-Transportation-Usage/blob/main/Presentation/E-Scooters%20Presentation%20FINAL.pptx.pdf)
