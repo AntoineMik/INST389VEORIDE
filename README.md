@@ -16,7 +16,7 @@ UMD Campus Map geospatial data
 ## Technical Specifications 
 Language: Python: [GIS Libraries: Geopandas, ArcPy, Folium, etc.]
 
-Visualization Software: ArcGIS or Tableau (TBD)
+Visualization Software: ArcGIS, Tableau
 
 Collaboration Platform: GitHub Repository
 
